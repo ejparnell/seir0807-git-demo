@@ -1,3 +1,3 @@
-Captain - Jean-Luc Picard
-Chief Medical Officer - Beverly Crusher
-Chief Engineer - Geordi La Forge
+Captain - James T. Kirk
+Chief Medical Officer - Leonard "Bones" McCoy
+Chief Engineer - Montgomery "Scotty" Scott
